@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.489
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Friend", "Friend\Friend.csproj", "{F74460D4-0132-4696-B078-8A19473BBD87}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCFriend", "Friend\MVCFriend.csproj", "{F74460D4-0132-4696-B078-8A19473BBD87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiFriend", "ApiFriend\ApiFriend.csproj", "{2DF9DAA6-891F-4B02-975D-1D2511DAB7E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{F74460D4-0132-4696-B078-8A19473BBD87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F74460D4-0132-4696-B078-8A19473BBD87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F74460D4-0132-4696-B078-8A19473BBD87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DF9DAA6-891F-4B02-975D-1D2511DAB7E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DF9DAA6-891F-4B02-975D-1D2511DAB7E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DF9DAA6-891F-4B02-975D-1D2511DAB7E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DF9DAA6-891F-4B02-975D-1D2511DAB7E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
